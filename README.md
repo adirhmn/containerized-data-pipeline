@@ -27,7 +27,7 @@ The entire system runs using **Docker Compose**.
 # Project Structure
 
 ```
-data-pipeline/
+containerized-data-pipeline/
 │
 ├── docker-compose.yml
 ├── README.md
