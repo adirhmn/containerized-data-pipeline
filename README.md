@@ -303,23 +303,6 @@ Existing records are updated, new records are inserted.
 
 ---
 
-# Logging
-
-The ingestion service logs important pipeline events:
-
-- Data fetching progress
-- Number of records retrieved
-- Ingestion start
-- Ingestion completion
-
-View logs:
-
-```
-docker-compose logs -f pipeline-service
-```
-
----
-
 # Testing
 
 ### Test Flask API
