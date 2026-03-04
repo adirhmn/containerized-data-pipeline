@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+requests==2.32.3
+
+SQLAlchemy==2.0.34
+psycopg2-binary==2.9.9
+
+dlt[postgres]==1.22.2
