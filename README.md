@@ -342,19 +342,6 @@ curl http://localhost:8000/api/customers?page=1&limit=5
 
 ---
 
-# Evaluation Criteria
-
-| Component                     | Points  |
-| ----------------------------- | ------- |
-| Flask Mock Server             | 50      |
-| FastAPI Ingestion + Endpoints | 50      |
-| Docker Compose                | 20      |
-| Documentation                 | 10      |
-| Code Quality                  | 10      |
-| **Total**                     | **140** |
-
----
-
 # Submission Checklist
 
 ```
@@ -366,10 +353,3 @@ curl http://localhost:8000/api/customers?page=1&limit=5
 
 [x] All API endpoints function correctly
 ```
-
----
-
-# Author
-
-Backend Developer Technical Assessment
-Customer Data Pipeline Implementation
